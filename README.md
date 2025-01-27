@@ -7,3 +7,4 @@
 -eJPT
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3t-Runn3r)](https://github.com/n3t-Runn3r/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3t-Runn3r&show_icons=true&theme=radical)
