@@ -1,6 +1,6 @@
 ### Hello there, I'm Omar!!
-📘 computer science & cybersecurity student at Sultan Qaboos Universety<br/>
-🤓 interseted in things related to cybersecurity <br/>
+📘 computer science & cybersecurity student at Sultan Qaboos University<br/>
+🤓 interrseted in things related to cybersecurity <br/>
 🚀certified Junior Penetration tester<br/>
 <br/>
  ## Certificates
